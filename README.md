@@ -4,6 +4,7 @@
 所需模块：requests re PyPDF2 os shutil datetime
 
 用法：python3 peoples_daily_download.py
+     详细操作见源码
 
 权限：目录下允许读写
 
